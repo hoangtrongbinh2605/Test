@@ -1,0 +1,20 @@
+
+.wrapper {
+  display: grid;
+  margin-left:auto;
+  margin-right:auto;
+  grid-template-columns: repeat(1,1fr);
+  grid-template-rows: repeat(1,1fr);
+}
+.item {
+  border: 1px solid #000;
+  padding: 20px;
+  text-align: center;
+}
+.header {
+  border: 1px solid #000;
+  padding: 20px;
+  text-align: center;
+}
+
+
